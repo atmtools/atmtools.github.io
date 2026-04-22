@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atmtools.github.io/arts-docs-master/sitemap.xml
